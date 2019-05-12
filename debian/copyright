@@ -1,0 +1,21 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: SQLite JDBC
+Source: https://github.com/xerial/sqlite-jdbc
+
+Files: *
+Copyright: 2019, Taro L. Saito <leo@xerial.org>
+License: Apache-2.0 or GPL-2
+
+Files: debian/*
+Copyright: 2019, Guillaume J Humbert <guillaume.j.humbert@pm.me>
+License: Apache-2.0
+
+License: Apache-2.0
+ On Debian systems, the full text of the Apache-2.0 license
+ can be found in the file '/usr/share/common-licenses/Apache-2.0'
+
+License: GPL-2
+ On Debian systems, the full text of the GPL-2 license
+ can be found in the file '/usr/share/common-licenses/GPL-2'
+
+

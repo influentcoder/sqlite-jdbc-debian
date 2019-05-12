@@ -1,0 +1,11 @@
+sqlite-jdbc (3.27.2.1-2) bionic; urgency=medium
+
+  * Fixed the distro codename.
+
+ -- Guillaume J Humbert <guillaume.j.humbert@pm.me>  Sun, 12 May 2019 15:20:58 +0800
+
+sqlite-jdbc (3.27.2.1-1) xenial; urgency=medium
+
+  * Initial release 
+
+ -- Guillaume J Humbert <guillaume.j.humbert@pm.me>  Sat, 11 May 2019 20:37:52 +0800
